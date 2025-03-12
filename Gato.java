@@ -17,8 +17,8 @@ public class Gato extends Animal {
 
     }
 
-    public void exibirSom(String som){
-        System.out.println("Miau");
+    public void exibirSomGato(){
+        System.out.println("O gato está miando");
     }
 
     public void exibiInfo(){
